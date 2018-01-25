@@ -1,0 +1,5 @@
+<?php 
+  /**
+   * Primary Sidebar Template
+   */
+?>
